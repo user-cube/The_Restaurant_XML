@@ -1,0 +1,4 @@
+/**
+ * Regiões partilhadas.
+ */
+package sharedRegions;
